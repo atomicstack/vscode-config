@@ -1,4 +1,8 @@
 {
+  "C_Cpp.default.macFrameworkPath": [
+    "/System/Library/Frameworks",
+    "/Library/Frameworks"
+  ],
   "Lua.telemetry.enable": true,
   "arduino.additionalUrls": "",
   "arduino.commandPath": "$HOME/bin/run-",
