@@ -84,5 +84,6 @@
   },
   "workbench.commandPalette.history": 99999,
   "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.sideBar.location": "right"
 }
